@@ -1,0 +1,21 @@
+{
+  "name": "pandemic-tool",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://nettek.ca/pandemic-tool",
+  "dependencies": {
+    "react": "16.3.0",
+    "react-dom": "16.3.0",
+    "react-scripts": "1.1.1",
+    "aphrodite": "2.1.0",
+    "@fortawesome/fontawesome": "1.1.5",
+    "@fortawesome/fontawesome-free-solid": "5.0.9",
+    "@fortawesome/react-fontawesome": "0.0.18"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
